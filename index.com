@@ -234,8 +234,3 @@ Here’s the corrected and clean version of your portfolio code (without errors)
 </body>
 </html>
 
-✅ Fixed the missing <!DOCTYPE html>
-✅ Corrected the title to match the header name (Pavithra)
-✅ Cleaned formatting and spacing
-
-Would you like me to also make this portfolio responsive (so it looks better on mobile screens), or keep it as is?
